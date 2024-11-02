@@ -33,11 +33,23 @@ CMS-Integrated-Healthcare-Insurance-Analysis
 
 
 
-!['EER Diagram for our structered Database'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/relational_model.png)
 
 
-!['Fact Table and Dimesnions for CMS Data Warehouse'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/Snowflake_schema.jpeg)
+## EER Diagram for Our Structured Database
+![EER Diagram for our structured Database](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/relational_model.png)
 
 
-!['Tableau Dashboard for generating insights from our CMS Data Warehouse'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/image.png)
+
+
+
+## Fact Table and Dimensions for CMS Data Warehouse
+![Fact Table and Dimensions for CMS Data Warehouse](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/Snowflake_schema.jpeg)
+
+
+
+
+
+## Tableau Dashboard for Generating Insights from Our CMS Data Warehouse
+![Tableau Dashboard for generating insights from our CMS Data Warehouse](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/image.png)
+
 
