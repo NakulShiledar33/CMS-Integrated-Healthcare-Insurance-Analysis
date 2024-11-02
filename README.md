@@ -31,7 +31,13 @@ CMS-Integrated-Healthcare-Insurance-Analysis
  recommendations to optimize healthcare insurance offerings, improve
  affordability, and enhance the overall quality of service
 
+
+
 !['EER Diagram for our structered Database'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/relational_model.png)
-!['Fact Table and Dimesnions for CMS Data Warehouse'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/snowflake_schema.jpeg)
+
+
+!['Fact Table and Dimesnions for CMS Data Warehouse'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/Snowflake_schema.jpeg)
+
+
 !['Tableau Dashboard for generating insights from our CMS Data Warehouse'](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/image.png)
 
