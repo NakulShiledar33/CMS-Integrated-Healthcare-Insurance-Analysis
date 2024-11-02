@@ -1,1 +1,0 @@
-# Healthcare_Insurance_Database_System
