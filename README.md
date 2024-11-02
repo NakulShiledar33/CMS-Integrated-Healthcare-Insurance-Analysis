@@ -47,6 +47,13 @@ To effectively analyze this complex healthcare data, we will implement a robust 
 
 
 
+## Talend ETL
+![Talend ETL pipeline for Data migration from database to data warehouse](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/Talend_ETL.png)
+
+
+
+
+
 ## Tableau Dashboard for Generating Insights from Our CMS Data Warehouse
 ![Tableau Dashboard for generating insights from our CMS Data Warehouse](https://github.com/NakulShiledar33/CMS-Integrated-Healthcare-Insurance-Analysis/blob/main/Datasets/image.png)
 
