@@ -6,6 +6,7 @@ CMS has extensive data on healthcare insurance plans, including pricing, feature
  the relationships and variations in plan rates, benefits, age groups, and provider
  networks across states. 
  The key components of the business definition include:
+ 
 **1. State-wise Variation:** Understand how healthcare plan rates and benefits vary
  across different states. Identify states with the highest and lowest plan rates, as
  well as variations in coverage benefits.
