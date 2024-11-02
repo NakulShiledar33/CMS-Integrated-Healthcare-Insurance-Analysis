@@ -1,4 +1,4 @@
-CMS-Integrated-Healthcare-Insurance-Analysis
+**CMS-Integrated-Healthcare-Insurance-Analysis**
 
  The Centers for Medicare & Medicaid Services (CMS) has access to a vast amount of
  information about healthcare insurance plans, including information on plan pricing,
@@ -27,10 +27,8 @@ CMS-Integrated-Healthcare-Insurance-Analysis
  multiple years (e.g., 2022 and 2023) and identify trends or changes in the
  healthcare insurance landscape over time.
 
- **4. Policy Recommendations:** Based on the insights gained, develop policy
- recommendations to optimize healthcare insurance offerings, improve
- affordability, and enhance the overall quality of service
-
+**Data Warehouse & ETL Integration:**
+To effectively analyze this complex healthcare data, we will implement a robust data warehouse using a snowflake schema design that enables sophisticated OLAP operations. The data warehouse will support roll-up operations for analyzing data at different aggregation levels (e.g., from individual plan rates to state-level summaries) and drill-down capabilities to examine detailed information (e.g., from regional trends to specific plan characteristics). Talend, as our ETL tool, will handle the extraction of data from various CMS sources, transform it according to business rules (such as age group categorization and rate calculations), and load it into our dimensional model. This integration enables complex analytical queries like "Average premium rates by state and age group over time" or "Provider network size correlation with plan rates across metal levels." The ETL pipeline in Talend will run on a scheduled basis to ensure data freshness, with specific jobs handling incremental loads for rate updates and full loads for reference data, maintaining data quality through built-in validation and error handling mechanisms.
 
 
 
